@@ -1,2 +1,2 @@
 # Fifa
-![My Picture](Images/connor.png)
+![My Picture](Images/connor.jpg)
